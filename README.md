@@ -1,6 +1,12 @@
-# SteaMidra Listed on r/FMHY [FMHY](https://fmhy.net/gaming-tools#steam-epic) and r/Piracy [Piracy](https://www.reddit.com/r/Piracy/wiki/megathread/games/#:~:text=SteaMidra)
+<div align="center">
+  <h1>SteaMidra</h1>
+   <img src="SFF.ico" alt="SteaMidra icon" width="128" height="128">
 
-*Made by Midrag and his brother!*
+  # SteaMidra Listed on r/FMHY [FMHY](https://fmhy.net/gaming-tools#steam-epic) and r/Piracy [Piracy](https://www.reddit.com/r/Piracy/wiki/megathread/games/#:~:text=SteaMidra)
+  *Made by Midrag and his brother!*
+</div>
+
+
 ## Educational use only. Use at your own risk.
 
 > ⚠️ **Antivirus Warning:** some AVs flag the binary as a generic packed-exe false positive. it's not malware. if your AV keeps quarantining it, add the SteaMidra folder to your AV exclusion list. the source is open at github.com/Midrags/SFF if you want to verify.
