@@ -117,8 +117,8 @@ SteaMidra has a full graphical interface with a **Modern UI** and the classic Qt
 Full changelog: [CHANGELOG.md](CHANGELOG.md)
 
 ---
-
-## Documentation
+## Documentations
+<details>
 
 [Documentation index](docs/README.md) – Start here.
 
@@ -141,7 +141,7 @@ Full changelog: [CHANGELOG.md](CHANGELOG.md)
 [Troubleshooting](docs/TROUBLESHOOTING.md) – Common problems and solutions.
 
 [Python Setup](docs/PYTHON_SETUP.md) – Running or building from source.
-
+</details>
 ---
 
 ## Troubleshooting
