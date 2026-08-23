@@ -2,7 +2,7 @@
   <h1>SteaMidra</h1>
    <img src="SFF.ico" alt="SteaMidra icon" width="128" height="128">
 
-  # SteaMidra Listed on r/FMHY [FMHY](https://fmhy.net/gaming-tools#steam-epic) and r/Piracy [Piracy](https://www.reddit.com/r/Piracy/wiki/megathread/games/#:~:text=SteaMidra)
+  # SteaMidra Listed on r/[FMHY](https://fmhy.net/gaming-tools#steam-epic) and r/[Piracy](https://www.reddit.com/r/Piracy/wiki/megathread/games/#:~:text=SteaMidra)
   *Made by Midrag and his brother!*
 </div>
 
